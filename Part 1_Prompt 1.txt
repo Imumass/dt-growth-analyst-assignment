@@ -1,0 +1,14 @@
+Prompt 1: Target Persona – COO of a Pharma SME
+
+Prompt (for ChatGPT or other AI):
+
+“Write a personalized outbound email for the COO of a mid-sized pharmaceutical company who is struggling to scale operations while managing compliance overhead.
+Use the AIDCA framework:
+
+	•	Attention: Start with a striking insight about pharma scale challenges in India
+	•	Interest: Reference bottlenecks in manual compliance or fragmented CRM usage
+	•	Desire: Highlight how smart automation helped another pharma SME increase throughput by 30%
+	•	Conviction: Embed a case study snippet or quote from a similar client (pharma preferred)
+	•	Action: End with a clear CTA to book a 15-minute strategy session
+Apply Cialdini’s principles of Authority and Social Proof.
+Avoid: Generic greetings, overly technical language, or vague promises.”

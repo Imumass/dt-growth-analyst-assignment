@@ -1,0 +1,12 @@
+Prompt 2: Target Persona – CTO of a D2C Brand
+
+Prompt (for ChatGPT or other AI):
+
+“Generate a B2B cold email for the CTO of a fast-growing D2C skincare brand dealing with data overload but struggling to extract customer insights.
+Use the AIDCA framework:
+
+	•	Attention: Start with a compelling stat about consumer data growth in D2C
+	•	Interest: Show empathy for teams buried in analytics but blind to patterns
+	•	Desire: Position AI-driven dashboards as the bridge between raw data and sharp CX decisions
+	•	Conviction: Mention a case study of a similar D2C brand improving retention via CRM intelligence
+	•	Action: Include a CTA to explore a 10-min product walkthrough

@@ -1,0 +1,36 @@
+Row 1 Fix – Pharma Email (Low SQL)
+
+New Prompt:
+
+“Write an email for the COO of a pharma SME, highlighting how our CRM automation helped a similar company cut compliance errors by 30%.
+Structure it using AIDCA and end with a data-driven reason to book a short call.
+Inject Authority (pharma-specific success) and Social Proof (existing client results).
+Avoid: vague tech talk and generic automation claims.”
+
+Justification:
+Targets the Conviction stage with clear ROI. Fixes trust drop at SQL level by using specific case studies and measurable impact.
+
+Row 2 Fix – D2C LinkedIn Message (Weak CTA)
+
+New Prompt:
+
+“Craft a short LinkedIn message for a D2C CTO overwhelmed by scattered data.
+Use AIDCA: grab attention with a relatable pain point, build desire with a one-line benefit, and end with a clear CTA: ‘Want a sneak peek of what we built for [D2C brand]?’
+Apply Scarcity (beta access) + Reciprocity (offering insights).
+Avoid: vague asks like ‘let me know your thoughts.’”
+
+Justification:
+Targets Action stage. Solves CTA confusion by prompting a low-friction response and appealing to curiosity.
+
+Row 3 Fix – Construction Email (Too Technical)
+
+New Prompt:
+
+“Write an email for a mid-sized construction firm’s COO.
+Keep it jargon-free. Use simple, clear language to show how we helped improve lead-to-site conversions using visual dashboards.
+Use AIDCA: spark interest with an industry stat, then show ease-of-use.
+Inject Liking (relatable tone) and Authority (regional case).
+Avoid: long lists of technical features.”
+
+Justification:
+Fixes Interest & Desire drop by simplifying language and improving message–audience resonance.
